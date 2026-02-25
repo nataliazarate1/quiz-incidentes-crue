@@ -57,4 +57,3 @@ El objetivo del proyecto es calcular las estadísticas descriptivas y analizar e
 
 Sí, dado que el comportamiento de los incidentes muestra patrones temporales que podrían modelarse usando técnicas de series de tiempo. Si se cuenta con datos históricos de varios años, sería posible aplicar modelos predictivos como regresión o ARIMA para estimar tendencias futuras. 
 
----
